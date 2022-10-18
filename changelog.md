@@ -2,6 +2,8 @@
 
 # FacilityOAuth-Mobile Changelog
 
+## [Unreleased]
+
 ## [0.0.4]
 ### Fixed
 - Bytes are represented as signed during percent encoding
